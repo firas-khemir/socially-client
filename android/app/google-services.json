@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "836635725426",
+    "firebase_url": "https://socail-spirit.firebaseio.com",
+    "project_id": "socail-spirit",
+    "storage_bucket": "socail-spirit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836635725426:android:98f74719b6f8dc2b293ceb",
+        "android_client_info": {
+          "package_name": "com.example.test_projj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836635725426-693r9bqkr55pgdnnaccvkfq8ui1c09j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_projj",
+            "certificate_hash": "215567e8b3e46bcee15214533035f41a078c0f91"
+          }
+        },
+        {
+          "client_id": "836635725426-g8k7abqnt1qvek7ci8v8nmkhvnk6hufh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoj1-dz0XTRxq89nor0q_0P7cgQ8WLtBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836635725426-g8k7abqnt1qvek7ci8v8nmkhvnk6hufh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836635725426-13jh4ic8cphh74i0tdhvtpbkq995tn8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.legion.sociallyClient.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836635725426:android:2a9ed1debe97b124293ceb",
+        "android_client_info": {
+          "package_name": "com.fireauthtester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836635725426-5jvmmo6v6qa7kjgvepgu9pcfea8m0s10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fireauthtester",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "836635725426-g8k7abqnt1qvek7ci8v8nmkhvnk6hufh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoj1-dz0XTRxq89nor0q_0P7cgQ8WLtBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836635725426-g8k7abqnt1qvek7ci8v8nmkhvnk6hufh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836635725426-13jh4ic8cphh74i0tdhvtpbkq995tn8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.legion.sociallyClient.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
